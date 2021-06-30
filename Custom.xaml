@@ -1,9 +1,0 @@
-﻿<local:MyCard Title="关于更新" Margin="0,0,0,15">
-    <StackPanel Margin="25,40,23,15">
-        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
-                   Text="你可以通过下面的网址查看更新公告或获取最新版！（未经允许，严谨转载）" />
-<local:MyButton Width="344" Height="40" HorizontalAlignment="Left" Padding="13,0,13,0"
-                   Text="打开官网" EventType="打开网页" EventData="https://www.mcbbs.net/" />
-    </StackPanel>
-</local:MyCard>
-
